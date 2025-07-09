@@ -1,0 +1,11 @@
+We are hiring a full-stack developer skilled in:
+
+- Python
+- Django
+- HTML/CSS
+- JavaScript
+- React.js
+- SQL
+- Git/GitHub
+- AWS
+- Docker

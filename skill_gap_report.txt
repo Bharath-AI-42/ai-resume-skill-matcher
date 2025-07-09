@@ -1,0 +1,21 @@
+===============================
+🎯 Resume Skill Match Report
+===============================
+
+Name: NAGARIKANTI VENKATA BHARATH
+Generated on: 2025-07-09 11:11:19
+
+📌 Skills Found in Resume (14):
+angular, aws, c, css, django, html, java, javascript, linux, machine learning, python, sql, typescript, windows
+
+✅ Skills Matched with Job (9):
+python, java, c, html, css, javascript, django, sql, aws
+
+❌ Skills Missing from Job Description (3):
+git, github, docker
+
+📢 Recommendation:
+Focus on learning the missing skills (like Docker, Git/GitHub) to improve job match rate.
+
+🔖 Built using: Python, PyPDF2, Regex
+By: NAGARIKANTI VENKATA BHARATH
